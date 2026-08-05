@@ -3,7 +3,7 @@ This repository contains scripts and resources for Chromosome-level genome assem
 
 ### Assembly accessions
 `
-The primary genomes are available at NCBI under the accession JCAWEN000000000 and JCAWEO000000000
+The primary genomes are available at NCBI under the accession [JCAWEN000000000]([url](https://www.ncbi.nlm.nih.gov/nuccore/JCAWEN000000000.1/)) and [JCAWEO000000000]([url](https://www.ncbi.nlm.nih.gov/nuccore/JCAWEO000000000))
 `
 ### Genome and Annotations related files available on FigShare
 The annotations are available at https://doi.org/10.6084/m9.figshare.31911283
